@@ -13,16 +13,17 @@ Além da criação, o projeto registra percepções, caminhos, limitações, pr�
 
 | Tecnologia | Finalidade |
 |-----------|------------|
-| **Google Gemini (Flash 2.5)** | Base criativa: concepção da ideia, roteirização, simplificação técnica e estruturação dos prompts. | [Conheça aqui](https://gemini.google.com/) 
-| **ElevenLabs** | Geração e refinamento do áudio, ajuste de pausas (...), velocidade e realismo da voz. | [Conheça aqui](https://elevenlabs.io/?utm_source=google&utm_medium=cpc&utm_campaign=brazil_brandsearch_brand_english&utm_id=22349494796&utm_term=elevenlabs&utm_content=brand_-_brand&gad_source=1&gad_campaignid=22349494796&gbraid=0AAAAAp9ksTGQK_GU9AsSL8xL1aE-txALb&gclid=CjwKCAiAw9vIBhBBEiwAraSATnTUCGMA0bxRbxX9kX6TfMdag2Zpu5qA0yEeszwNXojLNtVZlRh9MRoCKk0QAvD_BwE)
-| **Perplexity** | Geração de vídeos curtos com alta consistência visual e expressões faciais naturais. | [Conheça aqui](https://studio.d-id.com/video-studio)
-| **studio.d-id** | Testes de avatar com importação de áudio (resultados sintéticos ao usar imagens estáticas). | [Conheça aqui](https://studio.d-id.com/video-studio)
-| **NotebookLM** | Consolidação de materiais, interligando vídeo, áudio e roteiro para criar resumos em vídeo. | [Conheça aqui](https://notebooklm.google.com/)
-| **Veo3 (Google)** | Prova de conceito visual, limitada a 8 segundos por segmento. | [Conheça aqui](https://aistudio.google.com/models/veo-3)
-| **Manus** | Ferramenta conceitual para detalhamento frame-by-frame (emoção, ação, postura). | [Conheça aqui](https://manus.im/app)
-| **Nano Banana (Google)** | Ferramenta poderosa na criação de imagens com identidade visual. | [Conheça aqui](https://gemini.google/br/overview/image-generation/?hl=pt-BR)
+| **Google Gemini (Flash 2.5)** | Base criativa: concepção da ideia, roteirização, simplificação técnica e estruturação dos prompts. |
+| **ElevenLabs** | Geração e refinamento do áudio, ajuste de pausas (...), velocidade e realismo da voz. | 
+| **Perplexity** | Geração de vídeos curtos com alta consistência visual e expressões faciais naturais. |
+| **studio.d-id** | Testes de avatar com importação de áudio (resultados sintéticos ao usar imagens estáticas). |
+| **NotebookLM** | Consolidação de materiais, interligando vídeo, áudio e roteiro para criar resumos em vídeo. |
+| **Veo3 (Google)** | Prova de conceito visual, limitada a 8 segundos por segmento. | 
+| **Manus** | Ferramenta conceitual para detalhamento frame-by-frame (emoção, ação, postura). |
+| **Nano Banana (Google)** | Ferramenta poderosa na criação de imagens com identidade visual. | 
 
 ---
+Conheça todas: [Gemini](https://gemini.google.com/)  -  [ElevenLabs](https://elevenlabs.io/?utm_source=google&utm_medium=cpc&utm_campaign=brazil_brandsearch_brand_english&utm_id=22349494796&utm_term=elevenlabs&utm_content=brand_-_brand&gad_source=1&gad_campaignid=22349494796&gbraid=0AAAAAp9ksTGQK_GU9AsSL8xL1aE-txALb&gclid=CjwKCAiAw9vIBhBBEiwAraSATnTUCGMA0bxRbxX9kX6TfMdag2Zpu5qA0yEeszwNXojLNtVZlRh9MRoCKk0QAvD_BwE)  -  [Perplexity](https://www.perplexity.ai/)  -  [Studio.d-id](https://studio.d-id.com/video-studio)  -  [NotebookLM](https://notebooklm.google.com/)  -  [Veo3](https://aistudio.google.com/models/veo-3)  -  [Manus](https://manus.im/app)  -  [Nano Banana](https://gemini.google/br/overview/image-generation/?hl=pt-BR)  
 
 ## 📝 Processo de Criação
 
